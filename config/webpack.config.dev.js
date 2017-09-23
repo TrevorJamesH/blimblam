@@ -128,7 +128,7 @@ module.exports = {
         test: /worker\.js$/,
         use: [
           {
-            loader: 'worker-loader'
+            loader: require.resolve('worker-loader')
           }
         ]
       },
