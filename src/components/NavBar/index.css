@@ -1,0 +1,65 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav li {
+  list-style-type: none;
+  margin-right: 15px;
+}
+
+
+ul {
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  font-weight: bold;
+}
+
+.buttons{
+  padding: 15px;
+}
+
+.active {
+  font-weight: bold;
+  font-style: underline;
+  color: darkred;
+}
+
+.primary{
+  font-weight: bold;
+  color: darkred;
+}
+
+.avatarWrapper{
+  padding-top: 50px;
+}
+
+.avatar{
+  height: 200px;
+  width: 200px;
+}
+
+.description{
+  text-align: center;
+}
+
+.iconLinks{
+  padding: 15px;
+  display: flex;
+}
+
+.navFooter{
+  position: absolute;
+  bottom: 0;
+}

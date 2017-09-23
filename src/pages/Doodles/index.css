@@ -1,0 +1,10 @@
+.tabContent{
+  outline: none;
+  border: none;
+  background: black;
+}
+
+.text{
+  font: arial;
+  font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.strokeSelector{
+  display: flex;
+}
+
+.slider{
+  width: 620px
+}
+
+.progressBar{
+  display: flex;
+  width: 700px
+}

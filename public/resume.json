@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Trevor Hewitt",
+    "label": "Full Stack JavaScript Developer",
+    "picture": "",
+    "email": "TrevorHewitt@gmail.com",
+    "phone": "707-293-4784",
+    "website": "",
+    "summary": "I’m a curious and critical thinker. I thrive on puzzles and problem solving, finding myself most engaged when tackling a problem that stretches me.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "TrevorJamesH",
+        "url": "https://github.com/TrevorJamesH"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Learners Guild",
+      "position": "Apprentice Developer",
+      "website": "learnersguild.org",
+      "startDate": "2016-11-01",
+      "endDate": "",
+      "summary": "Building and adding to open source software in an incubator collective of self-taught developers supported by senior engineers. I build full stack web apps in JavaScript, specializing in Node, Express and React.",
+      "highlights": [
+        "LOS: Learning Operating System: Active open source software used by 80 people daily, React and Redux front, RethinkDB and GraphQL back",
+        "Mirror: Interview preparation and quiz application. React front, Postgres with Knex back"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The MADE",
+      "position": "Event Coordinator",
+      "website": "themade.org",
+      "startDate": "2014-09-01",
+      "endDate": "",
+      "summary": "Event Coordinator and Manager at Oakland's non-profit video game museum, offering free coding and design classes to the public. ",
+      "highlights": [
+        "Successful $50k kickstarter campaign amongst other fundraisers",
+        "Hosting hackathons, field trips, and educational events. "
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Santa Cruz",
+      "area": "Philosophy",
+      "studyType": "Bachelor",
+      "startDate": "2010-06-01",
+      "endDate": "2014-05-01",
+      "gpa": "3.5",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "Javascript",
+        "React",
+        "Node",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

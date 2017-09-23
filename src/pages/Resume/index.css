@@ -1,0 +1,20 @@
+.resume{
+  padding: 25px;
+}
+
+.title{
+  text-align: center;
+}
+
+ul{
+  padding-left: 25px;
+}
+
+span{
+  padding-right: 25px;
+  color: darkblue;
+}
+
+h3{
+  text-decoration: underline;
+}
