@@ -35,7 +35,7 @@ const Resume = () => (
             <div>
               <strong>Website</strong>
               <div>
-                <a href />
+                <a href='http://www.TrevorJamesHewitt.com'>TrevorJamesHewitt.com</a>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@ const Resume = () => (
       </section>
       <section>
         <aside>
-          <h3>Work</h3>
+          <h3>Experience</h3>
         </aside>
         <div>
           <div>

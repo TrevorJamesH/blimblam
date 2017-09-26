@@ -14,6 +14,10 @@ export default class NavBar extends Component {
         address: '/Resume',
       },
       {
+        name: 'Doodles',
+        address: '/doodles',
+      },
+      {
         name: 'Projects',
         address: '/projects',
       },
