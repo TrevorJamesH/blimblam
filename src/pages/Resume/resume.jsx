@@ -82,7 +82,7 @@ const Resume = () => (
                 </span>
               </h4>
               <div>
-                <a href="learnersguild.org">learnersguild.org</a>
+                <a href="http://learnersguild.org">learnersguild.org</a>
               </div>
               <div>
                 Apprentice Developer
@@ -125,7 +125,7 @@ const Resume = () => (
                 </span>
               </h4>
               <div>
-                <a href="themade.org">themade.org</a>
+                <a href="http://themade.org">themade.org</a>
               </div>
               <br/>
               <div>
